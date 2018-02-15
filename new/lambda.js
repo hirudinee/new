@@ -12,6 +12,8 @@ exports.handler = function (event, context, callback) {
 		}
 	});
 
+	
+
 	//test
 	callback(null, 'Successfully executed');
 }
